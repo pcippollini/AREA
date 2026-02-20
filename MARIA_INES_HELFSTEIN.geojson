@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "MARIA_INES_HELFSTEIN",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"xy_coordinate_resolution": 1e-15,
+"features": [
+{ "type": "Feature", "properties": { "fid": 239.0, "ER": "Capital Sul", "CIDADE": "São Paulo", "ER_CIDADE": "Capital Sul_São Paulo", "COD": 239, "CARTEIRA": "299", "LIBERADO_PRA_POS_CREDITO": "132", "FINALIZADO": "22", "FINALIZADO LISTA NEGRA": "0", "ETAPA_1": "0", "ETAPA_2": "0", "AGENTE": "MARIA_INES_HELFSTEIN" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -46.7831115, -23.7126558, 0.0 ], [ -46.7831115, -23.6841558, 0.0 ], [ -46.7546115, -23.6841558, 0.0 ], [ -46.7546115, -23.7126558, 0.0 ], [ -46.7831115, -23.7126558, 0.0 ] ] ] ] } },
+{ "type": "Feature", "properties": { "fid": 273.0, "ER": "Capital Sul", "CIDADE": "São Paulo", "ER_CIDADE": "Capital Sul_São Paulo", "COD": 273, "CARTEIRA": "246", "LIBERADO_PRA_POS_CREDITO": "41", "FINALIZADO": "6", "FINALIZADO LISTA NEGRA": "0", "ETAPA_1": "0", "ETAPA_2": "0", "AGENTE": "MARIA_INES_HELFSTEIN" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -46.669944, -23.643093, 0.0 ], [ -46.670369, -23.643263, 0.0 ], [ -46.670784, -23.643543, 0.0 ], [ -46.670915, -23.643833, 0.0 ], [ -46.670915, -23.644233, 0.0 ], [ -46.671803, -23.644383, 0.0 ], [ -46.671016, -23.645618, 0.0 ], [ -46.670425, -23.646849, 0.0 ], [ -46.669726, -23.648834, 0.0 ], [ -46.669114, -23.651154, 0.0 ], [ -46.6691115, -23.651164102941177, 0.0 ], [ -46.6691115, -23.6556558, 0.0 ], [ -46.6976115, -23.6556558, 0.0 ], [ -46.6976115, -23.6271558, 0.0 ], [ -46.6691115, -23.6271558, 0.0 ], [ -46.6691115, -23.642884708898642, 0.0 ], [ -46.669944, -23.643093, 0.0 ] ] ] ] } }
+]
+}

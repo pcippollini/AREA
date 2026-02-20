@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "EDUARDO_LUIZ_DE_SOUSA_RODRIGUES",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"xy_coordinate_resolution": 1e-15,
+"features": [
+{ "type": "Feature", "properties": { "fid": 371.0, "ER": "São José dos Campos", "CIDADE": "São José dos Campos", "ER_CIDADE": "São José dos Campos_São José dos Campos", "COD": 2711, "CARTEIRA": "399", "LIBERADO_PRA_POS_CREDITO": "101", "FINALIZADO": "30", "FINALIZADO LISTA NEGRA": "0", "ETAPA_1": "0", "ETAPA_2": "0", "AGENTE": "EDUARDO_LUIZ_DE_SOUSA_RODRIGUES" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -45.886112, -23.223656, 0.0 ], [ -45.886112, -23.251656, 0.0 ], [ -45.914112, -23.251656, 0.0 ], [ -45.914112, -23.223656, 0.0 ], [ -45.886112, -23.223656, 0.0 ] ] ] ] } },
+{ "type": "Feature", "properties": { "fid": 371.0, "ER": "São José dos Campos", "CIDADE": "São José dos Campos", "ER_CIDADE": "São José dos Campos_São José dos Campos", "COD": 2724, "CARTEIRA": "485", "LIBERADO_PRA_POS_CREDITO": "67", "FINALIZADO": "23", "FINALIZADO LISTA NEGRA": "0", "ETAPA_1": "6", "ETAPA_2": "0", "AGENTE": "EDUARDO_LUIZ_DE_SOUSA_RODRIGUES" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -45.858112, -23.167656, 0.0 ], [ -45.858112, -23.195656, 0.0 ], [ -45.886112, -23.195656, 0.0 ], [ -45.886112, -23.167656, 0.0 ], [ -45.858112, -23.167656, 0.0 ] ] ] ] } }
+]
+}

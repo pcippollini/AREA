@@ -4,6 +4,6 @@
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "xy_coordinate_resolution": 1e-15,
 "features": [
-{ "type": "Feature", "properties": { "fid": 186.0, "ER": "Capital Norte", "CIDADE": "São Paulo", "ER_CIDADE": "Capital Norte_São Paulo", "COD": 186, "CARTEIRA": "570", "LIBERADO_PRA_POS_CREDITO": "94", "FINALIZADO": "28", "FINALIZADO LISTA NEGRA": "0", "ETAPA_1": "0", "ETAPA_2": "0", "AGENTE": "CLAUDIO_SANTOS_MARIANO_CARIEL" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -46.7546115, -23.5131558, 0.0 ], [ -46.7546115, -23.4846558, 0.0 ], [ -46.7261115, -23.4846558, 0.0 ], [ -46.7261115, -23.5131558, 0.0 ], [ -46.7546115, -23.5131558, 0.0 ] ] ] ] } }
+{ "type": "Feature", "properties": { "fid": 186.0, "ER": "Capital Norte", "CIDADE": "São Paulo", "ER_CIDADE": "Capital Norte_São Paulo", "COD": 186, "CARTEIRA": "570", "LIBERADO_PRA_POS_CREDITO": "94", "FINALIZADO": "28", "FINALIZADO LISTA NEGRA": "0", "ETAPA_1": "0", "ETAPA_2": "0", "AGENTE": "CLAUDIO_SANTOS_MARIANO_CARIEL", "COD_2": 186 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -46.7546115, -23.5131558, 0.0 ], [ -46.7546115, -23.4846558, 0.0 ], [ -46.7261115, -23.4846558, 0.0 ], [ -46.7261115, -23.5131558, 0.0 ], [ -46.7546115, -23.5131558, 0.0 ] ] ] ] } }
 ]
 }

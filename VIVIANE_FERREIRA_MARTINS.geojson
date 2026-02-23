@@ -1,0 +1,15 @@
+{
+"type": "FeatureCollection",
+"name": "VIVIANE_FERREIRA_MARTINS",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"xy_coordinate_resolution": 1e-15,
+"features": [
+{ "type": "Feature", "properties": { "fid": 1962, "ER": "Sorocaba", "CIDADE": "Sorocaba", "ER_CIDADE": "Sorocaba_Sorocaba", "COD": 1962, "AGENTE": "VIVIANE_FERREIRA_MARTINS" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -47.482112, -23.447656, 0.0 ], [ -47.482112, -23.475656, 0.0 ], [ -47.510112, -23.475656, 0.0 ], [ -47.510112, -23.447656, 0.0 ], [ -47.482112, -23.447656, 0.0 ] ] ] ] } },
+{ "type": "Feature", "properties": { "fid": 1963, "ER": "Sorocaba", "CIDADE": "Sorocaba", "ER_CIDADE": "Sorocaba_Sorocaba", "COD": 1963, "AGENTE": "VIVIANE_FERREIRA_MARTINS" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -47.482112, -23.475656, 0.0 ], [ -47.482112, -23.503656, 0.0 ], [ -47.510112, -23.503656, 0.0 ], [ -47.510112, -23.475656, 0.0 ], [ -47.482112, -23.475656, 0.0 ] ] ] ] } },
+{ "type": "Feature", "properties": { "fid": 1979, "ER": "Sorocaba", "CIDADE": "Sorocaba", "ER_CIDADE": "Sorocaba_Sorocaba", "COD": 1979, "AGENTE": "VIVIANE_FERREIRA_MARTINS" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -47.454112, -23.419656, 0.0 ], [ -47.454112, -23.447656, 0.0 ], [ -47.482112, -23.447656, 0.0 ], [ -47.482112, -23.419656, 0.0 ], [ -47.454112, -23.419656, 0.0 ] ] ] ] } },
+{ "type": "Feature", "properties": { "fid": 1980, "ER": "Sorocaba", "CIDADE": "Sorocaba", "ER_CIDADE": "Sorocaba_Sorocaba", "COD": 1980, "AGENTE": "VIVIANE_FERREIRA_MARTINS" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -47.454112, -23.447656, 0.0 ], [ -47.454112, -23.475656, 0.0 ], [ -47.482112, -23.475656, 0.0 ], [ -47.482112, -23.447656, 0.0 ], [ -47.454112, -23.447656, 0.0 ] ] ] ] } },
+{ "type": "Feature", "properties": { "fid": 1982, "ER": "Sorocaba", "CIDADE": "Sorocaba", "ER_CIDADE": "Sorocaba_Sorocaba", "COD": 1982, "AGENTE": "VIVIANE_FERREIRA_MARTINS" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -47.454112, -23.503656, 0.0 ], [ -47.454112, -23.531019286404415, 0.0 ], [ -47.461008, -23.53061, 0.0 ], [ -47.461720644432091, -23.531656, 0.0 ], [ -47.482112, -23.531656, 0.0 ], [ -47.482112, -23.503656, 0.0 ], [ -47.454112, -23.503656, 0.0 ] ] ] ] } },
+{ "type": "Feature", "properties": { "fid": 1999, "ER": "Sorocaba", "CIDADE": "Sorocaba", "ER_CIDADE": "Sorocaba_Sorocaba", "COD": 1999, "AGENTE": "VIVIANE_FERREIRA_MARTINS" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -47.426112, -23.447656, 0.0 ], [ -47.426112, -23.475656, 0.0 ], [ -47.454112, -23.475656, 0.0 ], [ -47.454112, -23.447656, 0.0 ], [ -47.426112, -23.447656, 0.0 ] ] ] ] } },
+{ "type": "Feature", "properties": { "fid": 2017, "ER": "Sorocaba", "CIDADE": "Sorocaba", "ER_CIDADE": "Sorocaba_Sorocaba", "COD": 2017, "AGENTE": "VIVIANE_FERREIRA_MARTINS" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -47.398112, -23.419656, 0.0 ], [ -47.398112, -23.447656, 0.0 ], [ -47.426112, -23.447656, 0.0 ], [ -47.426112, -23.419656, 0.0 ], [ -47.398112, -23.419656, 0.0 ] ] ] ] } }
+]
+}

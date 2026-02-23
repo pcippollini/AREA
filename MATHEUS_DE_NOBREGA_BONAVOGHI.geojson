@@ -4,6 +4,6 @@
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "xy_coordinate_resolution": 1e-15,
 "features": [
-{ "type": "Feature", "properties": { "fid": 355.0, "ER": "Guarulhos", "CIDADE": "Guarulhos", "ER_CIDADE": "Guarulhos_Guarulhos", "COD": 2312, "CARTEIRA": "441", "LIBERADO_PRA_POS_CREDITO": "145", "FINALIZADO": "12", "FINALIZADO LISTA NEGRA": "0", "ETAPA_1": "0", "ETAPA_2": "0", "AGENTE": "MATHEUS_DE_NOBREGA_BONAVOGHI", "COD_2": 2312 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -46.530112, -23.419656, 0.0 ], [ -46.530112, -23.447656, 0.0 ], [ -46.558112, -23.447656, 0.0 ], [ -46.558112, -23.419656, 0.0 ], [ -46.530112, -23.419656, 0.0 ] ] ] ] } }
+{ "type": "Feature", "properties": { "fid": 61, "ER": "Guarulhos", "CIDADE": "Guarulhos", "ER_CIDADE": "Guarulhos_Guarulhos", "COD": 2312, "AGENTE": "MATHEUS_DE_NOBREGA_BONAVOGHI" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -46.530112, -23.419656, 0.0 ], [ -46.530112, -23.447656, 0.0 ], [ -46.558112, -23.447656, 0.0 ], [ -46.558112, -23.419656, 0.0 ], [ -46.530112, -23.419656, 0.0 ] ] ] ] } }
 ]
 }

@@ -4,7 +4,7 @@
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "xy_coordinate_resolution": 1e-15,
 "features": [
-{ "type": "Feature", "properties": { "fid": 1336, "ER": "Marília", "CIDADE": "Marília", "ER_CIDADE": "Marília_Marília", "COD": 1336, "AGENTE": "JOSE_SIDNEY_FERREIRA_LOPES" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -49.946112, -22.159656, 0.0 ], [ -49.946112, -22.187656, 0.0 ], [ -49.974112, -22.187656, 0.0 ], [ -49.974112, -22.159656, 0.0 ], [ -49.946112, -22.159656, 0.0 ] ] ] ] } },
-{ "type": "Feature", "properties": { "fid": 1337, "ER": "Marília", "CIDADE": "Marília", "ER_CIDADE": "Marília_Marília", "COD": 1337, "AGENTE": "JOSE_SIDNEY_FERREIRA_LOPES" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -49.946112, -22.187656, 0.0 ], [ -49.946112, -22.215656, 0.0 ], [ -49.974112, -22.215656, 0.0 ], [ -49.974112, -22.187656, 0.0 ], [ -49.946112, -22.187656, 0.0 ] ] ] ] } }
+{ "type": "Feature", "properties": { "ER": "Marília", "CIDADE": "Marília", "ER_CIDADE": "Marília_Marília", "COD": 1336, "AGENTE": "JOSE_SIDNEY_FERREIRA_LOPES" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -49.946112, -22.159656, 0.0 ], [ -49.946112, -22.187656, 0.0 ], [ -49.974112, -22.187656, 0.0 ], [ -49.974112, -22.159656, 0.0 ], [ -49.946112, -22.159656, 0.0 ] ] ] ] } },
+{ "type": "Feature", "properties": { "ER": "Marília", "CIDADE": "Marília", "ER_CIDADE": "Marília_Marília", "COD": 1337, "AGENTE": "JOSE_SIDNEY_FERREIRA_LOPES" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -49.946112, -22.187656, 0.0 ], [ -49.946112, -22.215656, 0.0 ], [ -49.974112, -22.215656, 0.0 ], [ -49.974112, -22.187656, 0.0 ], [ -49.946112, -22.187656, 0.0 ] ] ] ] } }
 ]
 }

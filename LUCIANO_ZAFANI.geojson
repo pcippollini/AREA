@@ -4,7 +4,7 @@
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "xy_coordinate_resolution": 1e-15,
 "features": [
-{ "type": "Feature", "properties": { "fid": 1355, "ER": "Marília", "CIDADE": "Marília", "ER_CIDADE": "Marília_Marília", "COD": 1355, "AGENTE": "LUCIANO_ZAFANI" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -49.918112, -22.215656, 0.0 ], [ -49.918112, -22.243656, 0.0 ], [ -49.946112, -22.243656, 0.0 ], [ -49.946112, -22.215656, 0.0 ], [ -49.918112, -22.215656, 0.0 ] ] ] ] } },
-{ "type": "Feature", "properties": { "fid": 1356, "ER": "Marília", "CIDADE": "Marília", "ER_CIDADE": "Marília_Marília", "COD": 1356, "AGENTE": "LUCIANO_ZAFANI" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -49.918112, -22.243656, 0.0 ], [ -49.918112, -22.271656, 0.0 ], [ -49.946112, -22.271656, 0.0 ], [ -49.946112, -22.243656, 0.0 ], [ -49.918112, -22.243656, 0.0 ] ] ] ] } }
+{ "type": "Feature", "properties": { "ER": "Marília", "CIDADE": "Marília", "ER_CIDADE": "Marília_Marília", "COD": 1355, "AGENTE": "LUCIANO_ZAFANI" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -49.918112, -22.215656, 0.0 ], [ -49.918112, -22.243656, 0.0 ], [ -49.946112, -22.243656, 0.0 ], [ -49.946112, -22.215656, 0.0 ], [ -49.918112, -22.215656, 0.0 ] ] ] ] } },
+{ "type": "Feature", "properties": { "ER": "Marília", "CIDADE": "Marília", "ER_CIDADE": "Marília_Marília", "COD": 1356, "AGENTE": "LUCIANO_ZAFANI" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -49.918112, -22.243656, 0.0 ], [ -49.918112, -22.271656, 0.0 ], [ -49.946112, -22.271656, 0.0 ], [ -49.946112, -22.243656, 0.0 ], [ -49.918112, -22.243656, 0.0 ] ] ] ] } }
 ]
 }

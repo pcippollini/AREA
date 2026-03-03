@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "RAFAELA_RIBEIRO_LIMA",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"xy_coordinate_resolution": 1e-15,
+"features": [
+{ "type": "Feature", "properties": { "ER": "Capital Leste I", "CIDADE": "São Paulo", "ER_CIDADE": "Capital Leste I_São Paulo", "COD": 77, "AGENTE": "RAFAELA_RIBEIRO_LIMA" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -46.5836115, -23.5701558, 0.0 ], [ -46.5836115, -23.5416558, 0.0 ], [ -46.5551115, -23.5416558, 0.0 ], [ -46.5551115, -23.5701558, 0.0 ], [ -46.5836115, -23.5701558, 0.0 ] ] ] ] } }
+]
+}
